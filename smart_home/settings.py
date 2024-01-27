@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'smart_home',
         'USER': 'postgres',
-        'PASSWORD': '158660',
+        'PASSWORD': '',
     }
 }
 
